@@ -1,0 +1,18 @@
+Object oreinted programming is based on the concept of object which are instance of classes
+
+oop allows as to structure our codes in a way that model real world entities using data(attributes) and behaviour(methods)
+
+##why we used 
+for modularity
+for reusability
+it well organized
+it allows us to represent real world entites more natually 
+##four pilliars of oop##
+Encapsulation
+inheritance
+polermorphism
+abstraction
+
+##classes
+classes are the blueprint or template for creating objects.it defined the properties or attributes and behaviours(methods) that the objects will have
+object is an instances of a class , u can create multiple object of a class

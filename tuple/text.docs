@@ -1,0 +1,5 @@
+local variables is declear inside a function and only accessible inside a function 
+    global variables can be accessed anywhere 
+lamda function can take any number of argument but can only have only one expression  
+    string manipulation refer to modifying , formating and working with strings in pyhtons
+    
